@@ -415,7 +415,7 @@ public class Main {
             System.out.println("3. View Appointments by Patient");
             System.out.println("4. View Appointments by Doctor");
             System.out.println("5. Update Appointment Status");
-            System.out.println("5. Cancel Appointment");
+            System.out.println("6. Cancel Appointment");
             System.out.println("7. Demonstrate Appointment Clone");
             System.out.println("0. Back to Main Menu");
 
